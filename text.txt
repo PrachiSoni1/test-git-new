@@ -4,3 +4,7 @@ test-project      -> git add (file name) -> git commit  ->git push
 
 changes control
 version control
+
+make changes --> git add --> git commit --> git push
+
+git pull
