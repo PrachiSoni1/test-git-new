@@ -1,0 +1,6 @@
+working directory -> stagging area      -> local Repo.  -> remote repo.
+test-project      -> git add (file name) -> git commit  ->git push
+
+
+changes control
+version control
